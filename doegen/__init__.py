@@ -1,0 +1,1 @@
+from .doegen import generate
